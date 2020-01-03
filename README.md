@@ -3,4 +3,4 @@
 [model.h5](./model.h5)实验最终得到的模型;    
 [Submission](./Submission)为实验得到的预测结果，可以直接在kaggle上提交;    
 [model_and_train.ipynb](model_and_train)为实验编写的模型和训练相关代码;  
-[test.ipynb](./test.ipynb)为可直接得到Submission.csv的代码（[get_result](./get_result)也可得到）。
+[test.ipynb](./test.ipynb)为可直接得到Submission.csv的代码（[get_result.ipynb](./get_result)也可得到）。
